@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elfinsanjaya12&show_icons=true&theme=dracula" alt="Sutanlab Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=elfinsanjaya12&show_icons=true&theme=dracula" alt="Elfin Github Stats">
 </div>
 <br>
 
