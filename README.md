@@ -23,7 +23,7 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - Self Improvement
 
 ### 🚀 How to reach me:
-- Web: [elfin sanjaya](https://elfinsanjaya.github.io)
+- Web: [elfin sanjaya](https://elfinsanjaya12.github.io)
 - Email: [elfinsanjaya12@gmail.com](elfinsanjaya12@gmail.com)
 - LinkedIn: [elfinsanjaya](https://www.linkedin.com/in/elfin-sanjaya-15a266176/)
 - Instagram: [@elfinsanjaya](https://www.instagram.com/elfinsanjaya12/)
